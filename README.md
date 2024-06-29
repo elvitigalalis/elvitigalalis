@@ -65,7 +65,10 @@ I'm an Information Systems (IS) & Computer Science (CS) enthusiast and developer
 </details>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/elvitigalalis/elvitigalalis/output/github-contribution-grid-snake.svg-dark" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <!-- This source will be used if the user prefers a dark color scheme -->
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/elvitigalalis/elvitigalalis/output/github-contribution-grid-snake-dark.svg" />
+  <!-- This source will be used if the user prefers a light color scheme -->
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/elvitigalalis/elvitigalalis/output/github-contribution-grid-snake.svg" />
+  <!-- This img element is used as a fallback -->
   <img alt="github-snake" src="https://raw.githubusercontent.com/elvitigalalis/elvitigalalis/output/github-contribution-grid-snake.svg" />
 </picture>
