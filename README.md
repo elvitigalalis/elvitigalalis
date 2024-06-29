@@ -63,7 +63,7 @@ I'm an Information Systems (IS) & Computer Science (CS) enthusiast and developer
 [youtube]: https://youtube.com/@lisule
 </details>
 
----
+#
 
 <picture>
   <!-- This source will be used if the user prefers a dark color scheme -->
