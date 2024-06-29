@@ -68,3 +68,6 @@ I'm an Information Systems (IS) & Computer Science (CS) enthusiast and developer
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
+
+![snake gif](https://github.com/elvitigalalis/elvitigalalis/blob/output/github-contribution-grid-snake.gif)
+
