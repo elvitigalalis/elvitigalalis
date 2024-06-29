@@ -62,6 +62,7 @@ I'm an Information Systems (IS) & Computer Science (CS) enthusiast and developer
 
 [website]: https://lisul.org
 [youtube]: https://youtube.com/@lisule
+</details>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
