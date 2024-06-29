@@ -53,7 +53,7 @@ I'm an Information Systems (IS) & Computer Science (CS) enthusiast and developer
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) 
 
----
+#
 
 <details>
  <summary><h3>👨‍💻 Lisul's Coding Journey (Expandable)</h3></summary>
@@ -63,7 +63,7 @@ I'm an Information Systems (IS) & Computer Science (CS) enthusiast and developer
 [youtube]: https://youtube.com/@lisule
 </details>
 
-#
+---
 
 <picture>
   <!-- This source will be used if the user prefers a dark color scheme -->
