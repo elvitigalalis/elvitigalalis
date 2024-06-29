@@ -2,7 +2,7 @@
 
 **`Digital Craftsman (Developer/Undergraduate Researcher)`**
 
-I'm an upcoming Undergraduate Researcher and developer specializing on machine learning, AI, and cybersecurity. All coding projects are mostly research-related or passion-driven projects designed from the ground up, with the ultimate goal of solving real-life problems with software. All video content demonstrate some of my current projects such as KetanBot and a demonstrations of our 2x World Championship Qualifing FRC Robot, curated and edited by myself. I publish more information and content on my personal portfolio "[lisul.org][website]".
+I'm an Information Systems + Computer Science enthusiast and developer specializing on machine learning, AI, and cybersecurity. All coding projects are mostly research-related or passion-driven projects designed from the ground up, with the ultimate goal of solving real-life problems with software. All video content demonstrate some of my current projects such as KetanBot and a demonstrations of our 2x World Championship Qualifing FRC Robot, curated and edited by myself. I publish more information and content on my personal portfolio "[lisul.org][website]".
 
    <p align="left">
       <a href="https://www.youtube.com/@lisule?sub_confirmation=1">
@@ -44,7 +44,7 @@ I'm an upcoming Undergraduate Researcher and developer specializing on machine l
 [![Win this RTX 4090 signed by Jensen Huang](https://ytcards.demolab.com/?id=VybxPh8Trls&title=Win+this+RTX+4090+signed+by+Jensen+Huang&lang=en&timestamp=1710538911&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=50 "Win this RTX 4090 signed by Jensen Huang")](https://www.youtube.com/watch?v=VybxPh8Trls)
 <!-- END YOUTUBE-CARDS -->
 
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
+[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@lisule?sub_confirmation=1)
 
 #
 
