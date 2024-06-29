@@ -5,19 +5,16 @@
 I'm an Information Systems (IS) & Computer Science (CS) enthusiast and developer specializing on machine learning, AI, and cybersecurity. All coding projects are mostly research-related or passion-driven projects designed from the ground up, with the ultimate goal of solving real-life problems with software. All video content demonstrate some of my current projects such as KetanBot and a demonstrations of our 2x World Championship Qualifing FRC Robot, curated and edited by myself. I publish more information and content on my personal portfolio "[lisul.org][website]".
 
    <p align="left">
+      <a href="https://www.youtube.com/@lisule?sub_confirmation=1">
+         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC3gbsCw3p7KLWinTEy7Z5Pg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
       <a href="https://www.youtube.com/@lisule">
-         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC3gbsCw3p7KLWinTEy7Z5Pg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/>
-      </a>
-      <a href="https://www.youtube.com/@lisule">
-         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC3gbsCw3p7KLWinTEy7Z5Pg?color=%23E1AD0E&label=VIEWS&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/>
-      </a>
+         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC3gbsCw3p7KLWinTEy7Z5Pg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
       <a href="https://github.com/elvitigalalis?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/elvitigalalis?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=FOLLOW&logoColor=white"/>
-      </a>
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/elvitigalalis?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/elvitigalalis?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/elvitigalalis?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=STARS"/>
-      </a>
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/elvitigalalis?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
+
 ---
 
 ### 🧰 Languages and Tools
