@@ -51,7 +51,7 @@ I'm an Environment & Computer Science (CS) enthusiast and developer specializing
 
 <!-- ![Lisul's GitHub stats](https://github-readme-stats.vercel.app/api?username=elvitigalalis&show_icons=true&theme=gruvbox) -->
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) 
+![GitHub Streak](https://streak-stats.demolab.com?user=elvitigalalis&theme=gruvbox&border_radius=4.5) 
 
 #
 
