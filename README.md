@@ -39,10 +39,7 @@ I'm an Environment & Computer Science (CS) enthusiast and developer specializing
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![501(c)(3) FutureGro Inc. Thumbnail Video](https://ytcards.demolab.com/?id=46AWqGrL1JE&title=501%28c%29%283%29+FutureGro+Inc.+Thumbnail+Video&lang=en&timestamp=1692984949&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "501(c)(3) FutureGro Inc. Thumbnail Video")](https://www.youtube.com/watch?v=46AWqGrL1JE)
-[![SyossetBraves Robot Demonstration by Lisul Elvitigala](https://ytcards.demolab.com/?id=6EYJzMOUVr0&title=SyossetBraves+Robot+Demonstration+by+Lisul+Elvitigala&lang=en&timestamp=1686625561&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "SyossetBraves Robot Demonstration by Lisul Elvitigala")](https://www.youtube.com/watch?v=6EYJzMOUVr0)
-[![KetanBot - Demo & Explanation](https://ytcards.demolab.com/?id=E42a9Vety20&title=KetanBot+-+Demo+%26+Explanation&lang=en&timestamp=1686625356&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "KetanBot - Demo & Explanation")](https://www.youtube.com/watch?v=E42a9Vety20)
-[![Ketan Bot - Robotic Bartender](https://ytcards.demolab.com/?id=O8UBXYZ1Izg&title=Ketan+Bot+-+Robotic+Bartender&lang=en&timestamp=1681910037&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Ketan Bot - Robotic Bartender")](https://www.youtube.com/watch?v=O8UBXYZ1Izg)
+
 <!-- END YOUTUBE-CARDS -->
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@lisule?sub_confirmation=1)
