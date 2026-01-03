@@ -2,7 +2,7 @@
 
 **`Digital Craftsman (Developer/Undergraduate Researcher)`**
 
-Hi, I am a Computer Science (CS) competitive programmer and developer specializing in robotics, AI/ML, and backend development. All coding projects are mostly research-related or passion-driven projects designed from the ground up, with the ultimate goal of solving real-life problems with software. All video content demonstrate some of my current projects such as the KetanBot Robotic Bartender and a demonstrations of our 2x World Championship Qualifing FRC Robot, curated and edited by myself. I publish more information and content on my personal portfolio "[lisul.org][website]."
+Hi, I am a Computer Science (CS) competitive programmer and developer specializing in robotics, AI/ML, and backend development. All coding projects are mostly research-related or passion-driven projects designed from the ground up, with the ultimate goal of solving real-life problems with software. All video content demonstrate some of my current projects such as the KetanBot Robotic Bartender and a demonstrations of our 2x World Championship Qualifing FRC Robot, curated and edited by myself. I publish more information and content on my personal portfolio "[lisul-elvi.com][website]."
 
    <p align="left">
       <a href="https://www.youtube.com/@lisule?sub_confirmation=1">
